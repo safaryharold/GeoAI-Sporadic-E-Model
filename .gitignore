@@ -1,0 +1,51 @@
+# large data / models (archive on Zenodo instead)
+*.pkl
+*.keras
+*.zip
+cleaned_data.csv
+combined_data.csv
+May_2024_SA.csv
+paper_outputs/oof/
+paper_outputs/xgb_oof_predictions.csv
+paper_outputs/validation/sounding_matches.csv
+paper_outputs/validation/ionosonde_es.csv
+paper_outputs/deep_baseline/*_oof.csv
+ionosonde_data/
+G - ML-for-ESPROB-Yenca/
+.venv_torch/
+__pycache__/
+.DS_Store
+# LaTeX build products
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+texput.log
+archive/legacy_models/
+paper_outputs/persistence/features.parquet
+paper_outputs/persistence/test_predictions.csv
+paper_outputs/persistence/features_refined.parquet
+paper_outputs/persistence/refine_test_predictions.csv
+paper_outputs/persistence/features_latency.parquet*
+paper_outputs/persistence/final_test_predictions.csv
+.venv_hwm/
+hwm14/*.o
+hwm14/hwm14drv
+hwm14/pyhwm2014-1.1*
+hwm14/sdist/
+paper_outputs/physics_drivers/hwm_features.parquet
+paper_outputs/physics_drivers/test_predictions.csv
+paper_outputs/validation_giro/*_matches.csv
+hwm14/*.mod
+paper_outputs/release/benchmark_2023_2024.parquet
+paper/supporting.aux
+paper/supporting.log
+paper/supporting.out
+paper/main.pdf
+paper/supporting.pdf
+paper/*.toc
+# unpublished: manuscript, results, processed data, citation (hold until publication)
+paper/
+paper_outputs/
+combined_data.csv.gz
+CITATION.cff
