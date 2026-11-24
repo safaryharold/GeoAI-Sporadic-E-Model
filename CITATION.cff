@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and please also cite Stolle et al. (2024)."
+type: software
+title: "GeoAI-Sporadic-E-Model: nowcasting sporadic-E over South America from GNSS radio occultation"
+authors:
+  - family-names: Safary
+    given-names: Harold L.
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/safaryharold/GeoAI-Sporadic-E-Model"
+url: "https://github.com/safaryharold/GeoAI-Sporadic-E-Model"
+keywords:
+  - sporadic E
+  - ionosphere
+  - GNSS radio occultation
+  - nowcasting
+  - machine learning
+  - South America

@@ -119,6 +119,10 @@ HWM14 is built from Fortran (`gfortran -c hwm14/hwm14.f90 hwm14/driver.f90`, the
 - **QBO:** NOAA PSL
 - **HWM14:** Drob et al. (2015), Earth and Space Science
 
-## Citation
+## Citing this code
 
-A citation will be added when the paper is published.
+Use the **"Cite this repository"** button in the GitHub sidebar (generated from [`CITATION.cff`](CITATION.cff)) for APA and BibTeX. Please also cite Stolle et al. (2024). A citation for the paper will be added when it is published.
+
+## License
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Safary Harold.

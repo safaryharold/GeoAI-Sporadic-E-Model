@@ -48,4 +48,3 @@ paper/*.toc
 paper/
 paper_outputs/
 combined_data.csv.gz
-CITATION.cff
